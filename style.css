@@ -1,7 +1,7 @@
 body{
     margin: 0;
     height: 100vh;
-    background-color: black;
+    background-color: rgb(197, 184, 184);
 }
 span {
     background: url("https://cdn4.iconfinder.com/data/icons/general-office/91/General_Office_54-64.png");
